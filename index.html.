@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shyijin Jithu | Finance Professional</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Shyijin Jithu</h1>
+    <p>Finance Professional | Equity Research | Financial Analysis | Investment Advisory</p>
+    <a href="resume.pdf" target="_blank">📄 Download Resume</a>
+</header>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>
+        Results-driven finance professional with 4+ years of experience in equity research,
+        financial analysis, portfolio management, and investment advisory.
+    </p>
+</section>
+
+<section id="experience">
+    <h2>Experience</h2>
+
+    <h3>Aditya Birla Capital</h3>
+    <p>Trade Advisor (May 2025 – Present)</p>
+
+    <h3>HDFC Securities</h3>
+    <p>Senior Equity Dealer (Nov 2023 – Apr 2025)</p>
+
+    <h3>Enrich Finserv</h3>
+    <p>Relationship Manager (Oct 2022 – Oct 2023)</p>
+</section>
+
+<section id="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>Financial Modeling</li>
+        <li>Equity Research</li>
+        <li>Portfolio Management</li>
+        <li>Financial Statement Analysis</li>
+        <li>Advanced Excel</li>
+        <li>Power BI</li>
+        <li>Tableau</li>
+        <li>Python (Basic)</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: shyijin.jithu@gmail.com</p>
+    <p>Phone: +91 8428492139</p>
+    <p>
+        LinkedIn:
+        <a href="https://linkedin.com/in/shyijin" target="_blank">
+            linkedin.com/in/shyijin
+        </a>
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 Shyijin Jithu. All Rights Reserved.</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
